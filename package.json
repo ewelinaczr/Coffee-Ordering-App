@@ -1,0 +1,16 @@
+{
+  "name": "2.-coffee-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start index.html",
+    "build": "build index.html"
+  },
+  "author": "Ewelina Czerwińska",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
